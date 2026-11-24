@@ -1,0 +1,19 @@
+
+# Modelos privados
+*.joblib
+*.pkl
+
+# Bases de datos y archivos empresariales
+*.csv
+*.xlsx
+*.xls
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Configuración local
+.env
+.streamlit/secrets.toml
